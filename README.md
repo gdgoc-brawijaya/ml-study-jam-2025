@@ -27,7 +27,7 @@ Pastikan kalian sudah menginstal "Starter Pack" berikut:
 
 1.  **Clone repo ini:**
     ```bash
-    git clone [https://github.com/gdgoc-brawijaya/ml-study-jam-2025.git](https://github.com/gdgoc-brawijaya/ml-study-jam-2025.git)
+    git clone https://github.com/gdgoc-brawijaya/ml-study-jam-2025.git
     ```
 2.  **Install Library:**
     ```bash
