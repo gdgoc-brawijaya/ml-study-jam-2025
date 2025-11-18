@@ -37,4 +37,10 @@ Pastikan kalian sudah menginstal "Starter Pack" berikut:
 
 ---
 
+## 📈 Our Growth
+
+Melihat antusiasme kalian dalam belajar ML bersama GDGoC Brawijaya!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=gdgoc-brawijaya/ml-study-jam-2025&type=Date)](https://star-history.com/#gdgoc-brawijaya/ml-study-jam-2025&Date)
+
 Created with ❤️ by **Technical Division - GDGoC Brawijaya**
